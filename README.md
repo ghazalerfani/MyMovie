@@ -1,7 +1,7 @@
 # MyMovie
 
 ## About MyMovie v1.0:
-This compact application aims to help empowering producers to make successful movies based on publicly available historical data through our regression model, and allowing users to explore information and figures related to past successful films.
+This compact application aims to help empowering producers to make successful movies based on publicly available historical data through several models, and allowing users to explore information and figures related to past successful films.
 
 Created for 95888 Data Focused Python Course in Fall 2018 - Heinz College, Carnegie Mellon University
 
